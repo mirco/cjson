@@ -1,0 +1,9 @@
+# autotools output
+.deps/
+.dirstamp
+.libs/
+*.lo
+*.o
+
+# astyle backup files
+*.orig
